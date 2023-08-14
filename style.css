@@ -732,11 +732,11 @@ select:focus {
         width: 250px;
     }
     .contact{
-        top: 645vh;
+        top: 730vh;
         /* display: none; */
     }
     .contactUs{
-        top: 680vh
+        top: 775vh
     }
     .consultation-title{
         font-size: 1.2rem;
@@ -749,14 +749,13 @@ select:focus {
         padding: 0.5rem;
     }
     .link-section{
-        top: 710vh;
-        /* display: none; */
+        top: 795vh;
     }
     .container-categories{
         flex-wrap: wrap;
     }
     .footer-section{
-        top: 790vh;
+        top: 860vh;
     }
     .footer-content{
         flex-direction: column;

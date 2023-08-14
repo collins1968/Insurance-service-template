@@ -681,15 +681,24 @@ select:focus {
 
     }
     .abouts{
-        top: 180vh;
+        top: 160vh;   
+    }
+    .about-container{
+        flex-direction: column;
+        gap: 15px;
     }
 
+    .testimonial{
+        top: 225vh;
+    }
     .testimonials{
+       
         flex-direction: column;
         gap: 10px;
     }
     .Logos{
-        top: 300vh;
+        top: 340vh;
+
     }
     .logos-container{
         /* flex-direction: column; */
@@ -700,7 +709,7 @@ select:focus {
         display: none;
     }
     .pricing-section{
-        top: 300vh;
+        top: 360vh;
     }
     .pricing-container{
         flex-direction: column;
@@ -708,7 +717,7 @@ select:focus {
         gap: 10px;
     }
     .branches-section{
-        top: 540vh;
+        top: 600vh;
     }
     .branches{
         flex-direction: column;
@@ -727,7 +736,7 @@ select:focus {
         /* display: none; */
     }
     .contactUs{
-        top: 690vh
+        top: 680vh
     }
     .consultation-title{
         font-size: 1.2rem;
